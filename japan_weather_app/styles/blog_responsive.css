@@ -1,0 +1,265 @@
+@charset "utf-8";
+
+@media only screen and (max-width: 1600px)
+{
+	
+}
+@media only screen and (max-width: 1440px)
+{
+	
+}
+
+@media only screen and (max-width: 1380px)
+{
+	
+}
+
+@media only screen and (max-width: 1280px)
+{
+	
+}
+
+@media only screen and (max-width: 1199px)
+{
+	.header_info
+	{
+		padding-left: 30px;
+	}
+	.main_nav ul li:not(:last-of-type)
+	{
+		margin-right: 43px;
+	}
+	.header_link a
+	{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+}
+
+@media only screen and (max-width: 1100px)
+{
+	
+}
+
+@media only screen and (max-width: 1024px)
+{
+	
+}
+
+@media only screen and (max-width: 991px)
+{
+	.weather_container
+	{
+		height: auto;
+		padding-bottom: 30px;
+	}
+	.weather_form_inputs
+	{
+		width: 100%;
+		height: auto;
+		padding-top: 30px;
+	}
+	.weather_form_inputs > div
+	{
+		width: calc((100% - 9px) / 2);
+		margin-bottom: 9px;
+	}
+	.weather_form_button
+	{
+		width: 100%;
+		margin-left: 0;
+	}
+	.header_link
+	{
+		display: none;
+	}
+	.main_nav
+	{
+		display: none;
+	}
+	.search_panel
+	{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.header_content 
+	{
+		height: 118px;
+	}
+	.header_info
+	{
+		display: none;
+	}
+	.home_title h1
+	{
+		font-size: 56px;
+	}
+	.home_text
+	{
+		font-size: 16px;
+	}
+	.header_right
+	{
+		height: 100%;
+		padding-right: 25px;
+		padding-top: 4px;
+	}
+	.hamburger
+	{
+		display: block;
+	}
+	.logo
+	{
+		margin-bottom: 0;
+	}
+	.logo_1
+	{
+		display: none;
+	}
+	.logo_2
+	{
+		display: inline-block;
+	}
+	.blog
+	{
+		padding-bottom: 150px;
+	}
+	.sidebar
+	{
+		margin-top: 110px;
+	}
+	.sidebar_slider_container
+	{
+		height: 450px;
+	}
+	.footer_col:first-child .footer_info > div
+	{
+		padding-right: 0px;
+	}
+	.footer_col:nth-child(3) .footer_info > div
+	{
+		padding-left: 0px;
+	}
+	.footer_col:not(:last-child)
+	{
+		margin-bottom: 40px;
+	}
+}
+
+@media only screen and (max-width: 959px)
+{
+	
+}
+
+@media only screen and (max-width: 880px)
+{
+	
+}
+
+@media only screen and (max-width: 768px)
+{
+	
+}
+
+@media only screen and (max-width: 767px)
+{
+	
+}
+
+@media only screen and (max-width: 575px)
+{
+	.home
+	{
+		height: 380px;
+	}
+	.home_container
+	{
+		padding-top: 38px;
+	}
+	.weather_container
+	{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.home_title h1
+	{
+		font-size: 48px;
+	}
+	.header_content
+	{
+		height: 85px;
+	}
+	.menu_nav ul li a
+	{
+		font-size: 24px;
+	}
+	.button
+	{
+		width: 152px;
+		height: 56px;
+	}
+	.button a
+	{
+		font-size: 12px;
+		line-height: 52px;
+	}
+	.header .logo .logo_2
+	{
+		display: none;
+	}
+	.header .logo .logo_3
+	{
+		display: inline-block;
+	}
+	.logo_overlay_content,
+	.menu_overlay_content
+	{
+		width: 90px;
+		height: 90px;
+	}
+	.menu_overlay .hamburger i
+	{
+		font-size: 20px;
+	}
+	.logo_overlay_content .logo a img
+	{
+		height: 60px;
+	}
+	.section_title h1
+	{
+		margin-top: -14px;
+		font-size: 24px;
+	}
+	.section_title div
+	{
+		font-size: 92px;
+	}
+	.sidebar_search_form
+	{
+		max-width: 100%;
+	}
+	.sidebar_slider_container
+	{
+		height: 350px;
+	}
+}
+
+@media only screen and (max-width: 539px)
+{
+	
+}
+
+@media only screen and (max-width: 480px)
+{
+	
+}
+
+@media only screen and (max-width: 479px)
+{
+	
+}
+
+@media only screen and (max-width: 400px)
+{
+	
+}
